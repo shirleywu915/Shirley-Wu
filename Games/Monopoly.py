@@ -13,6 +13,13 @@ import random #to generate random values for dice and make decisions for AIs.
 
 import time #outputs slowly
 
+'''
+Feedback from Dave:
+- In general, variable names start with lowercase and constant names are all uppercase
+- The Xjail variables should just be booleans (True or False) instead of arrays
+- Replace array variables with classes
+'''
+
 #Lists to store values
 
 #Player backpacks:current dice value, money, current position, number of "get out of jail card", previous position
