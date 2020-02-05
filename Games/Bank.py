@@ -14,8 +14,8 @@ user = input("Please enter your PIN: ") #Ask for pin
 attemps = 2
 
 while user != pin and attemps > 0: 
-    attemps -= 1
     print("Wrong PIN. %d attemps remaining." %attemps) #Ask for pin again
+    attemps -= 1
     user = input("Please enter your PIN again: ")
 if attemps == 0:
     print("Tries exceeded. Account is now locked.")
