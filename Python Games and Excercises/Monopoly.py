@@ -7,6 +7,7 @@ A game of human vs AI Monopoly
 With simple, shorten rules.
 
 *House of the same color will not change anything, just to keep the game simple. No doubling the rent or anything.
+*There might be some bugs.
 '''
 
 import random #to generate random values for dice and make decisions for AIs.
