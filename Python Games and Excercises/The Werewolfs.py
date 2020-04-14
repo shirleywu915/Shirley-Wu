@@ -1,7 +1,9 @@
 """
 Name: Shirley Wu
 Date: October 26, 2018
-Choose Your Own Adventure: SAVE THE VILLAGE!!!
+Choose Your Own Adventure assignment: 
+
+SAVE THE VILLAGE!!!
 
 1: Witch/Wizard
 2: Villager
@@ -10,7 +12,7 @@ Choose Your Own Adventure: SAVE THE VILLAGE!!!
 5: Fortune Teller
 6: Villager
 
-* But nobody except themselves know these identities, they’ll have to guess *
+* But nobody except themselves know these identities, they’ll have to guess and analyze with logic *
 """
 print("""Oh no! There are 6 people locked inside a room.
 
